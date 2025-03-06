@@ -15,7 +15,7 @@ numba (0.60.0)
 llvmlite (0.43.0)
 sympy (1.13.1)
 mpmath (1.3.0)
-Visualization
+
 matplotlib (3.9.2)
 contourpy (1.2.0)
 cycler (0.11.0)
@@ -36,7 +36,7 @@ pycryptodomex (3.21.0)
 pyzstd (0.16.2)
 pyppmd (1.1.1)
 pybcj (1.0.3)
-Networking and Web
+
 requests (2.32.3)
 idna (3.7)
 urllib3 (2.2.3)
