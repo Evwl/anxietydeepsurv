@@ -1,5 +1,5 @@
 # Code for Deepsurv application
-All training models were achieved using Python 3.12.4. Customized code can be found in the uploaded file.
+All training models were achieved using Python 3.12.7. Customized code can be found in the uploaded file.
 
 # Package versions: 
 pycox (0.3.0)
